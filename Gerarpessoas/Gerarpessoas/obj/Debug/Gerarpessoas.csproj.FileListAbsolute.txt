@@ -1,0 +1,10 @@
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\obj\Debug\Gerarpessoas.csproj.AssemblyReference.cache
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\obj\Debug\Gerarpessoas.Form1.resources
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\obj\Debug\Gerarpessoas.Properties.Resources.resources
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\obj\Debug\Gerarpessoas.csproj.GenerateResource.cache
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\obj\Debug\Gerarpessoas.csproj.CoreCompileInputs.cache
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\bin\Debug\Gerarpessoas.exe.config
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\bin\Debug\Gerarpessoas.exe
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\bin\Debug\Gerarpessoas.pdb
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\obj\Debug\Gerarpessoas.exe
+C:\Users\paulo\source\repos\Gerarpessoas\Gerarpessoas\obj\Debug\Gerarpessoas.pdb
